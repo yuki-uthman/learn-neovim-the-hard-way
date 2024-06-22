@@ -8,22 +8,12 @@ powerful text editor.
 
 ## Repository Structure
 
-The repository is organized with each lesson in its own branch. The branch names
-correspond to the lesson titles, making it easy for you to navigate to the
-materials for a specific lesson. This structure allows you to focus on one
-lesson at a time without the distraction of other lesson content.
-
-## Cloning a Branch
-
-To clone the materials for a specific lesson, run the following command:
-
-   ```bash
-   git clone -b <branch-name> https://github.com/yuki-uthman/learn-neovim-the-hard-way.git
-   ```
-   eg.
-   ```bash
-   git clone -b lesson1 https://github.com/yuki-uthman/learn-neovim-the-hard-way.git
-   ```
+The repository is organized with each lesson in its own folder. The folder names
+correspond to the new keys introduced in the video, making it easy for you to
+navigate to the materials for a specific lesson. For example, if you learned the
+new key combination 'ea' in the lesson then the folder name would be ea. This
+structure allows you to focus on one lesson at a time without the distraction of
+other lesson content.
 
 ## How to Use the Course Materials
 
